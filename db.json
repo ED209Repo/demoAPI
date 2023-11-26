@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "userLogin": [
+    { "userId": "1", "roleID": "1","deviceID": "A12312", "phoneNumber": "0321" },
+    {"userId": "2", "roleID": "2","deviceID": "A12322", "phoneNumber": "0331" }
+    { "userId": "3", "roleID": "2","deviceID": "A12332", "phoneNumber": "0341" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
