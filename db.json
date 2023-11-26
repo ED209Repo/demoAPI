@@ -1,7 +1,7 @@
 {
   "userLogin": [
     { "userId": "1", "roleID": "1","deviceID": "A12312", "phoneNumber": "0321" },
-    {"userId": "2", "roleID": "2","deviceID": "A12322", "phoneNumber": "0331" }
+    {"userId": "2", "roleID": "2","deviceID": "A12322", "phoneNumber": "0331" },
     { "userId": "3", "roleID": "2","deviceID": "A12332", "phoneNumber": "0341" }
   ],
   "comments": [
