@@ -1,9 +1,10 @@
 {
-  "userLogin": [
-    { "userId": "1", "roleID": "1","deviceID": "A12312", "phoneNumber": "0321" },
-    {"userId": "2", "roleID": "2","deviceID": "A12322", "phoneNumber": "0331" },
-    { "userId": "3", "roleID": "2","deviceID": "A12332", "phoneNumber": "0341" }
-  ],
+  "GuestLogin": {
+    "statusCode": 200,
+    "statusMessage": "Guest User Login SuccessFull",
+    "errorMessage": "No Error",
+    "data": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlaWQiOiIxIiwiRGV2aWNlSWQiOiIxMTEiLCJ1c2VyaWQiOiIxMDAyIiwiZXhwIjoxNzAxMTk0MzczLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo4MDgyLyIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjgwODIvIn0.eHFGREmJPHI9BIWdge7XoNFR4-U0mk6PA1T3Hlaubxo"
+  },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
