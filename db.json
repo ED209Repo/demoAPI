@@ -3,7 +3,7 @@
     "statusCode": 200,
     "statusMessage": "Guest User Login SuccessFull",
     "errorMessage": "No Error",
-    "data": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlaWQiOiIxIiwiRGV2aWNlSWQiOiIxMTEiLCJ1c2VyaWQiOiIxMDAyIiwiZXhwIjoxNzAxMTk0MzczLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo4MDgyLyIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjgwODIvIn0.eHFGREmJPHI9BIWdge7XoNFR4-U0mk6PA1T3Hlaubxo"
+    "data": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
   },
   "Add_resturant" :{
     "resturant_Name": "string",
