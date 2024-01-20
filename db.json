@@ -4,10 +4,12 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "login": {
+    "statusCode": 200,
+    "statusMessage": "Guest User Login SuccessFull",
+    "errorMessage": "No Error",
+    "data": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlaWQiOiIxIiwiRGV2aWNlSWQiOiIxMjM0NSIsInVzZXJpZCI6IjEwMDIiLCJleHAiOjE3MDU4MDczNzAsImlzcyI6Imh0dHBzOi8vbG9jYWxob3N0OjgwODIvIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6ODA4Mi8ifQ.NlUAlJSyQQEs_XNehc55QhqgVAM6Z108b4AuWn3INRo"
+  },
   "NearR":{
     "statusCode": 200,
     "statusMessage": "OK",
