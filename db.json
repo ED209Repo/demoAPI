@@ -18,10 +18,10 @@
     "data": [
       {
         "rest_Id": 9874,
-        "resturant_Name": "Emerging Dhaba",
+        "resturant_Name": "Hardees",
         "open_Close_Time": "9am to 12pm",
         "offdays": "Friday",
-        "resturant_type": "Junk",
+        "resturant_type": "Fast Food",
         "business_Id": "546asdf5465",
         "licesnes_Id": "54asdf4fa54",
         "rest_Cat_": [
@@ -29,13 +29,13 @@
             "rest_Cat_id": 3065,
             "rest_id": 9874,
             "cat_temp_id": 4569,
-            "name": "desi",
+            "name": "Fast Food",
             "parent_Category": 1,
             "getting_food_Items": [
               {
                 "food_Item_id": 8905,
                 "rest_Cat_id": 3065,
-                "name": "daal chawal",
+                "name": "Burger",
                 "description": "delecious",
                 "unit": "500g",
                 "unit_perPrice": "250",
@@ -45,7 +45,7 @@
               {
                 "food_Item_id": 9906,
                 "rest_Cat_id": 3065,
-                "name": "korma",
+                "name": "Wraps",
                 "description": "delecious",
                 "unit": "1",
                 "unit_perPrice": "550",
@@ -64,7 +64,7 @@
               {
                 "food_Item_id": 8906,
                 "rest_Cat_id": 3066,
-                "name": "Burger",
+                "name": "Pizza",
                 "description": "delecious",
                 "unit": "1",
                 "unit_perPrice": "550",
@@ -150,7 +150,7 @@
       },
       {
         "rest_Id": 9878,
-        "resturant_Name": "Junk",
+        "resturant_Name": "McDonalds",
         "open_Close_Time": "24 Hours OPen",
         "offdays": "Sunday",
         "resturant_type": "",
@@ -160,37 +160,37 @@
       },
       {
         "rest_Id": 9880,
-        "resturant_Name": "string",
-        "open_Close_Time": "string",
-        "offdays": "string",
-        "resturant_type": "string",
+        "resturant_Name": "KFC",
+        "open_Close_Time": "24 Hours OPen",
+        "offdays": "Sunday",
+        "resturant_type": "Fast Food",
         "business_Id": "string",
         "licesnes_Id": "string",
         "rest_Cat_": null
       },
       {
         "rest_Id": 9882,
-        "resturant_Name": "Kfc",
+        "resturant_Name": "Daily Deli Co.",
         "open_Close_Time": "9-12",
         "offdays": "Friday",
-        "resturant_type": "JUNK",
+        "resturant_type": "Fast Food",
         "business_Id": "2379787",
         "licesnes_Id": "117322987",
         "rest_Cat_": null
       },
       {
         "rest_Id": 9884,
-        "resturant_Name": "string",
-        "open_Close_Time": "string",
-        "offdays": "string",
-        "resturant_type": "string",
+        "resturant_Name": "Pizza Hut",
+        "open_Close_Time": "10-12",
+        "offdays": "Sunday",
+        "resturant_type": "Fast Food",
         "business_Id": "string",
         "licesnes_Id": "string",
         "rest_Cat_": null
       },
       {
         "rest_Id": 9886,
-        "resturant_Name": "MC",
+        "resturant_Name": "Howdy",
         "open_Close_Time": "10-12",
         "offdays": "Sundy",
         "resturant_type": "Fast Food",
@@ -200,20 +200,20 @@
       },
       {
         "rest_Id": 9888,
-        "resturant_Name": "KFC",
+        "resturant_Name": "Gloria Jeans",
         "open_Close_Time": "2-5",
         "offdays": "Sunday",
-        "resturant_type": "Fast Food",
+        "resturant_type": "Cafe",
         "business_Id": "string",
         "licesnes_Id": "string",
         "rest_Cat_": null
       },
       {
         "rest_Id": 9890,
-        "resturant_Name": "string",
-        "open_Close_Time": "string",
-        "offdays": "string",
-        "resturant_type": "string",
+        "resturant_Name": "WrapLab",
+        "open_Close_Time": "10am-6pm",
+        "offdays": "Sunday",
+        "resturant_type": "Fast Food",
         "business_Id": "string",
         "licesnes_Id": "string",
         "rest_Cat_": null
@@ -236,12 +236,12 @@
       "errorMessage": "",
       "data":[
       {
-  "vechid": 0,
-  "vechileName": "Corolla",
-  "color": "White",
-  "vechileRegistrationNumber": "1234",
-  "vechileCompany": "Toyota",
-  "userid": 2
+       "vechid": 0,
+      "vechileName": "Corolla",
+      "color": "White",
+      "vechileRegistrationNumber": "1234",
+      "vechileCompany": "Toyota",
+      "userid": 2
       }
     ]
   }
