@@ -1,19 +1,14 @@
 {
-  "Login": {
-    "statusCode": 200,
-    "statusMessage": "Guest User Login SuccessFull",
-    "errorMessage": "No Error",
-    "data": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
-  },
-  "Add_resturant" :{
-    "resturant_Name": "string",
-    "open_Close_Time": "string",
-    "offdays": "string",
-    "resturant_type": "string",
-    "business_Id": "string",
-    "licesnes_Id": "string"
-  },
-  "All_NearBy_Resturants":{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "NearR":{
     "statusCode": 200,
     "statusMessage": "OK",
     "errorMessage": "",
@@ -231,35 +226,5 @@
         "rest_Cat_": null
       }
     ]
-  },
-  "Add_Vechile" :{
-    "vechid": 0,
-    "vechileName": "string",
-    "color": "string",
-    "vechileRegistrationNumber": "string",
-    "vechileCompany": "string",
-    "userid": 0
-  },
-  "Get_vechile":{
-    "statusCode": 200,
-    "statusMessage": "Vehicles Found",
-    "errorMessage": "",
-    "data": [
-      {
-        "vechid": 8642,
-        "vechileName": "Mehran",
-        "color": "Black",
-        "vechileRegistrationNumber": "22322",
-        "vechileCompany": "Suzuki",
-        "userid": 334
-      }
-    ]
-  },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
