@@ -1,5 +1,5 @@
 {
-  "GuestLogin": {
+  "Login": {
     "statusCode": 200,
     "statusMessage": "Guest User Login SuccessFull",
     "errorMessage": "No Error",
