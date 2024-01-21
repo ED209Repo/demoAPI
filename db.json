@@ -244,6 +244,342 @@
       "userid": 2
       }
     ]
+  },
+  "TopPicks":{
+    "statusCode": 200,
+    "statusMessage": "OK",
+    "errorMessage": "",
+    "data": [
+      {
+        "rest_Id": 9874,
+        "resturant_Name": "Hardees",
+        "open_Close_Time": "9am to 12pm",
+        "offdays": "Friday",
+        "resturant_type": "Fast Food",
+        "business_Id": "546asdf5465",
+        "licesnes_Id": "54asdf4fa54",
+        "TopPicks":[
+          {
+            "food_Item_id": 8905,
+            "rest_Cat_id": 3065,
+            "name": "Burger",
+            "description": "delecious",
+            "unit": "500g",
+            "unit_perPrice": "250",
+            "prepare_time": "15 MIns",
+            "variations": null
+          },
+          {
+            "food_Item_id": 9906,
+            "rest_Cat_id": 3065,
+            "name": "Wraps",
+            "description": "delecious",
+            "unit": "1",
+            "unit_perPrice": "550",
+            "prepare_time": "15 MIns",
+            "variations": null
+          },
+          {
+            "food_Item_id": 9906,
+            "rest_Cat_id": 3065,
+            "name": "Pizza",
+            "description": "delecious",
+            "unit": "1",
+            "unit_perPrice": "550",
+            "prepare_time": "15 MIns",
+            "variations": null
+          },
+          {
+            "food_Item_id": 9906,
+            "rest_Cat_id": 3065,
+            "name": "Wraps",
+            "description": "delecious",
+            "unit": "1",
+            "unit_perPrice": "550",
+            "prepare_time": "15 MIns",
+            "variations": null
+          }
+      
+        ],
+        "rest_Cat_": [
+          {
+            "rest_Cat_id": 3065,
+            "rest_id": 9874,
+            "cat_temp_id": 4569,
+            "name": "Fast Food",
+            "parent_Category": 1,
+            "getting_food_Items": [
+              {
+                "food_Item_id": 8905,
+                "rest_Cat_id": 3065,
+                "name": "Burger",
+                "description": "delecious",
+                "unit": "500g",
+                "unit_perPrice": "250",
+                "prepare_time": "15 MIns",
+                "variations": null
+              },
+              {
+                "food_Item_id": 9906,
+                "rest_Cat_id": 3065,
+                "name": "Wraps",
+                "description": "delecious",
+                "unit": "1",
+                "unit_perPrice": "550",
+                "prepare_time": "15 MIns",
+                "variations": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rest_Id": 6543,
+        "resturant_Name": "McDonald's",
+        "open_Close_Time": "8am to 11pm",
+        "offdays": "Sunday",
+        "resturant_type": "Fast Food",
+        "business_Id": "789sdf4562",
+        "licesnes_Id": "78sdf4fa78",
+        "TopPicks": [
+          {
+            "food_Item_id": 7654,
+            "rest_Cat_id": 2098,
+            "name": "Big Mac",
+            "description": "Classic burger with special sauce",
+            "unit": "450g",
+            "unit_perPrice": "300",
+            "prepare_time": "12 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 8765,
+            "rest_Cat_id": 2098,
+            "name": "Chicken McNuggets",
+            "description": "Crispy and delicious chicken bites",
+            "unit": "12 pieces",
+            "unit_perPrice": "450",
+            "prepare_time": "10 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 9876,
+            "rest_Cat_id": 2098,
+            "name": "Filet-O-Fish",
+            "description": "Fish fillet sandwich with tartar sauce",
+            "unit": "1",
+            "unit_perPrice": "350",
+            "prepare_time": "8 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 5432,
+            "rest_Cat_id": 2098,
+            "name": "McFlurry",
+            "description": "Vanilla soft-serve with your favorite mix-ins",
+            "unit": "300g",
+            "unit_perPrice": "200",
+            "prepare_time": "5 Mins",
+            "variations": null
+          }
+        ],
+        "rest_Cat_": [
+          {
+            "rest_Cat_id": 2098,
+            "rest_id": 6543,
+            "cat_temp_id": 3012,
+            "name": "Fast Food",
+            "parent_Category": 1,
+            "getting_food_Items": [
+              {
+                "food_Item_id": 7654,
+                "rest_Cat_id": 2098,
+                "name": "Big Mac",
+                "description": "Classic burger with special sauce",
+                "unit": "450g",
+                "unit_perPrice": "300",
+                "prepare_time": "12 Mins",
+                "variations": null
+              },
+              {
+                "food_Item_id": 8765,
+                "rest_Cat_id": 2098,
+                "name": "Chicken McNuggets",
+                "description": "Crispy and delicious chicken bites",
+                "unit": "12 pieces",
+                "unit_perPrice": "450",
+                "prepare_time": "10 Mins",
+                "variations": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rest_Id": 1234,
+        "resturant_Name": "Subway",
+        "open_Close_Time": "10am to 9pm",
+        "offdays": "Monday",
+        "resturant_type": "Subs and Sandwiches",
+        "business_Id": "321sdf7890",
+        "licesnes_Id": "32sdf4fa32",
+        "TopPicks": [
+          {
+            "food_Item_id": 2345,
+            "rest_Cat_id": 4087,
+            "name": "Italian B.M.T.",
+            "description": "Spicy pepperoni, salami, and ham",
+            "unit": "Footlong",
+            "unit_perPrice": "550",
+            "prepare_time": "8 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 3456,
+            "rest_Cat_id": 4087,
+            "name": "Veggie Delight",
+            "description": "Freshly sliced veggies and cheese",
+            "unit": "Footlong",
+            "unit_perPrice": "450",
+            "prepare_time": "6 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 4567,
+            "rest_Cat_id": 4087,
+            "name": "Chicken Teriyaki",
+            "description": "Grilled chicken with teriyaki sauce",
+            "unit": "Footlong",
+            "unit_perPrice": "600",
+            "prepare_time": "10 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 5678,
+            "rest_Cat_id": 4087,
+            "name": "Subway Club",
+            "description": "Turkey, ham, and roast beef",
+            "unit": "Footlong",
+            "unit_perPrice": "500",
+            "prepare_time": "7 Mins",
+            "variations": null
+          }
+        ],
+        "rest_Cat_": [
+          {
+            "rest_Cat_id": 4087,
+            "rest_id": 1234,
+            "cat_temp_id": 5091,
+            "name": "Subs and Sandwiches",
+            "parent_Category": 1,
+            "getting_food_Items": [
+              {
+                "food_Item_id": 2345,
+                "rest_Cat_id": 4087,
+                "name": "Italian B.M.T.",
+                "description": "Spicy pepperoni, salami, and ham",
+                "unit": "Footlong",
+                "unit_perPrice": "550",
+                "prepare_time": "8 Mins",
+                "variations": null
+              },
+              {
+                "food_Item_id": 3456,
+                "rest_Cat_id": 4087,
+                "name": "Veggie Delight",
+                "description": "Freshly sliced veggies and cheese",
+                "unit": "Footlong",
+                "unit_perPrice": "450",
+                "prepare_time": "6 Mins",
+                "variations": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rest_Id": 7890,
+        "resturant_Name": "Pizza Hut",
+        "open_Close_Time": "11am to 10pm",
+        "offdays": "Wednesday",
+        "resturant_type": "Pizza",
+        "business_Id": "987sdf6543",
+        "licesnes_Id": "98sdf4fa98",
+        "TopPicks": [
+          {
+            "food_Item_id": 6789,
+            "rest_Cat_id": 6054,
+            "name": "Pepperoni Lover's Pizza",
+            "description": "Loaded with pepperoni and cheese",
+            "unit": "Large",
+            "unit_perPrice": "800",
+            "prepare_time": "20 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 7890,
+            "rest_Cat_id": 6054,
+            "name": "Supreme Pizza",
+            "description": "A combination of meats and veggies",
+            "unit": "Large",
+            "unit_perPrice": "850",
+            "prepare_time": "22 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 8901,
+            "rest_Cat_id": 6054,
+            "name": "Margherita Pizza",
+            "description": "Simple and classic with tomatoes and cheese",
+            "unit": "Medium",
+            "unit_perPrice": "600",
+            "prepare_time": "18 Mins",
+            "variations": null
+          },
+          {
+            "food_Item_id": 9012,
+            "rest_Cat_id": 6054,
+            "name": "BBQ Chicken Pizza",
+            "description": "Grilled chicken with BBQ sauce and onions",
+            "unit": "Large",
+            "unit_perPrice": "900",
+            "prepare_time": "25 Mins",
+            "variations": null
+          }
+        ],
+        "rest_Cat_": [
+          {
+            "rest_Cat_id": 6054,
+            "rest_id": 7890,
+            "cat_temp_id": 7036,
+            "name": "Pizza",
+            "parent_Category": 1,
+            "getting_food_Items": [
+              {
+                "food_Item_id": 6789,
+                "rest_Cat_id": 6054,
+                "name": "Pepperoni Lover's Pizza",
+                "description": "Loaded with pepperoni and cheese",
+                "unit": "Large",
+                "unit_perPrice": "800",
+                "prepare_time": "20 Mins",
+                "variations": null
+              },
+              {
+                "food_Item_id": 7890,
+                "rest_Cat_id": 6054,
+                "name": "Supreme Pizza",
+                "description": "A combination of meats and veggies",
+                "unit": "Large",
+                "unit_perPrice": "850",
+                "prepare_time": "22 Mins",
+                "variations": null
+              }
+            ]
+          }
+        ]
+      }            
+    ]
   }
 }
 
