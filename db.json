@@ -435,56 +435,6 @@
             ]
           }
         ]
-      },
-      {
-        "rest_Id": 9884,
-        "resturant_Name": "Daily Deli Co.",
-        "open_Close_Time": "10-12",
-        "offdays": "Sunday",
-        "resturant_type": "Fast Food",
-        "business_Id": "string",
-        "licesnes_Id": "string",
-        "rest_Cat_": null
-      },
-      {
-        "rest_Id": 9886,
-        "resturant_Name": "Howdy",
-        "open_Close_Time": "10-12",
-        "offdays": "Sundy",
-        "resturant_type": "Fast Food",
-        "business_Id": "571adf432",
-        "licesnes_Id": "y55549iu6",
-        "rest_Cat_": null
-      },
-      {
-        "rest_Id": 9888,
-        "resturant_Name": "Gloria Jeans",
-        "open_Close_Time": "2-5",
-        "offdays": "Sunday",
-        "resturant_type": "Cafe",
-        "business_Id": "string",
-        "licesnes_Id": "string",
-        "rest_Cat_": null
-      },
-      {
-        "rest_Id": 9890,
-        "resturant_Name": "WrapLab",
-        "open_Close_Time": "10am-6pm",
-        "offdays": "Sunday",
-        "resturant_type": "Fast Food",
-        "business_Id": "string",
-        "licesnes_Id": "string",
-        "rest_Cat_": null
-      },
-      {
-        "rest_Id": 9892,
-        "resturant_Name": "Burger lab",
-        "open_Close_Time": "10-12PM",
-        "offdays": "Monday",
-        "resturant_type": "Fast Food",
-        "business_Id": "string",
-        "licesnes_Id": "string",
-        "rest_Cat_": null
       }
     ]
   },
@@ -504,4 +454,3 @@
     ]
   }
 }
-
