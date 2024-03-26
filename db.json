@@ -3,12 +3,9 @@
     "$oid": "66012a959cdd3ede0865b31b"
   },
   "companyName": "string",
-  "businessName": "string",
   "companyAddress": "string",
   "businessRegId": "string",
   "ownerId": "65fc4f84298434dc62d57a8d",
-  "companyLogo": "string",
-  "companySlogan": "string",
   "country": [
     {
       "CountryId": 0,
