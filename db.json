@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "66012a959cdd3ede0865b31b"
-  },
   "companyName": "string",
   "companyAddress": "string",
   "businessRegId": "string",
